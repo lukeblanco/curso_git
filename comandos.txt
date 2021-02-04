@@ -1,0 +1,4 @@
+#Crear alias para status o cualquier otro  
+git config --global alis.s "status"
+
+luego al ejecutar git s lo toma como un git status
